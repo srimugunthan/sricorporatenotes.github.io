@@ -70,3 +70,28 @@ Example: "I want to keep you all updated on some changes coming from upper manag
 Style: Uses positive reinforcement and highlights the larger purpose behind tasks to motivate the team.
 Example: "Every effort you put into this project brings us closer to our goal of improving our client's experiences. Your hard work is truly making a difference."
 These styles help democratic leaders to not only manage effectively but also inspire and engage their teams, leading to higher satisfaction and productivity.
+
+
+###  Delegational leader
+
+A delegational leader, often referred to as a laissez-faire leader, typically provides their team with a lot of autonomy and trusts them to make decisions independently. This leadership style is effective in environments where team members are experienced, self-motivated, and skilled. Here are some communication styles and examples that a delegational leader might use:
+
+####  Hands-off Communication
+Style: Minimal supervision, trusting team members to handle tasks without constant oversight. Example: "I've assigned the project deliverables based on each of your expertise. I trust you to move forward with what we discussed. Please reach out if you encounter any significant issues or need my input."
+
+ #### Empowering Feedback
+Style: Offers feedback that empowers and encourages independence and growth. Example: After reviewing a completed project, a delegational leader might say, "Great work on the recent project. Your innovative approach to solving X was impressive. I encourage you to keep using your strengths to lead in future initiatives."
+
+####  Open-ended Questions
+Style: Encourages team members to think critically and make decisions by asking open-ended questions. Example: "What do you all think are the key challenges with our current strategy, and how might we tackle them?"
+
+####  Strategic Check-ins
+Style: Periodic and scheduled check-ins rather than daily monitoring, focusing on milestones and outcomes. Example: "Let’s schedule a monthly check-in to discuss progress on your key areas. This will be a good time to explore any support you might need from me or adjustments we might need to consider."
+
+####  Encouragement of Collaboration
+Style: Promotes collaboration among team members while stepping back from direct involvement. Example: "I'd like you to collaborate with the marketing team on this project. I believe combining expertise will lead to a better outcome than working in silos."
+
+6. Result-oriented Updates
+Style: Requests updates that focus on results and solutions rather than processes. Example: "When we meet next, please be prepared to present the results you’ve achieved and any learning points from the project so far. I'm looking forward to seeing your progress."
+
+These communication styles illustrate how a delegational leader interacts with their team—focusing on outcomes, providing necessary resources, and stepping in only when needed, thereby fostering an environment of trust and responsibility.

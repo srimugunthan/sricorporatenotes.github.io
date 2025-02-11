@@ -91,7 +91,59 @@ Style: Periodic and scheduled check-ins rather than daily monitoring, focusing o
 ####  Encouragement of Collaboration
 Style: Promotes collaboration among team members while stepping back from direct involvement. Example: "I'd like you to collaborate with the marketing team on this project. I believe combining expertise will lead to a better outcome than working in silos."
 
-6. Result-oriented Updates
+####   Result-oriented Updates
 Style: Requests updates that focus on results and solutions rather than processes. Example: "When we meet next, please be prepared to present the results you’ve achieved and any learning points from the project so far. I'm looking forward to seeing your progress."
 
 These communication styles illustrate how a delegational leader interacts with their team—focusing on outcomes, providing necessary resources, and stepping in only when needed, thereby fostering an environment of trust and responsibility.
+
+###  Transformational leader
+
+Transformational leaders are known for their ability to inspire and motivate their teams to achieve exceptional results. Their communication style is typically engaging, empathetic, and visionary. Here are some communication styles associated with transformational leaders, along with examples:
+
+####  Inspirational and Visionary Communication:
+
+Example: "Imagine a future where our efforts have changed the industry. Together, we are not just meeting our goals; we're setting new benchmarks that will define our legacy. Let's innovate and lead the way forward."
+#### Empathetic and Supportive Communication:
+
+Example: "I understand the challenges we're facing, and I appreciate the hard work everyone is putting in. Let's discuss what support you need to overcome these hurdles. Your success is vital to our collective success."
+#### Encouraging Personal Development:
+
+Example: "I see tremendous potential in you, and I want to help you unlock it. Let's set some personal growth goals for you that align with your career aspirations and our organizational objectives."
+#### Open and Collaborative Communication:
+
+Example: "I value every idea that comes from this team. Let’s open the floor and brainstorm together. Every perspective is crucial as it brings us closer to a more comprehensive solution."
+#### Transparent and Honest Communication:
+
+Example: "It's important to me that everyone understands where we stand and where we're headed. Here are our current challenges, and here's the strategy to address them. I'm open to feedback and ready to adapt our approach as needed."
+#### Motivational and Mobilizing Communication:
+
+Example: "This is our moment to shine. We have a unique opportunity to make a significant impact. Let's seize this moment with passion and determination. I know we can do this together!"
+#### Communicating High Expectations:
+
+Example: "I believe in setting high standards because I know we have the capability to meet them. Let’s aim not just to meet our targets but to exceed them and set a new standard for excellence."
+Transformational leaders use these communication styles not just to convey messages but to build trust, foster innovation, and create an environment where everyone feels empowered to contribute their best.
+
+###  Servant leadership 
+Servant leadership focuses on the growth and well-being of people and the communities to which they belong. A servant leader prioritizes the needs of their team or organization, aiming to enhance teamwork and personal involvement. Here are some communication styles typical of servant leaders, with examples:
+
+#### Empathetic Listening:
+
+Example: "I noticed you've seemed a bit overwhelmed lately. Can we talk about what’s on your plate and figure out how we can make things more manageable for you?"
+Servant leaders emphasize understanding and empathizing with the feelings and perspectives of others. This form of communication builds trust and shows respect for team members' experiences and viewpoints.
+#### Encouraging and Affirmative:
+
+Example: "You did an excellent job on that project. Your approach to solving the problem was innovative, and it really drove our success."
+They frequently acknowledge and appreciate the efforts and achievements of others, fostering a positive environment and boosting morale.
+#### Transparent and Open Communication:
+
+Example: "I want to share some updates about the upcoming changes in our department. I’ll explain what these changes mean for our team and how we can navigate them together."
+Transparency is key for servant leaders. They share information openly to ensure that everyone has the understanding they need to feel secure and included in the workplace.
+#### Persuasive Rather Than Coercive:
+
+Example: "I believe adopting this new process could really improve our workflow. Let’s pilot it in our team, and I’d love to hear your thoughts and feedback."
+Instead of using authority to command, servant leaders use persuasion to influence their teams, valuing consensus over compliance.
+#### Healing and Supportive:
+
+Example: "I understand this mistake has set us back, but let’s focus on what we can learn from it and how we can support each other to move forward."
+They focus on recovery and support, helping team members learn from failures without fear of criticism or blame.
+These communication styles help servant leaders build strong, capable teams where members feel valued, understood, and motivated.

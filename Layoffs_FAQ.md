@@ -69,17 +69,21 @@ Collective bargaining agreements: If the company has a unionized workforce, the 
 
 While it's generally expected that companies provide a notice period before layoffs, there are certain circumstances where they might lay off employees immediately without notice. However, these situations are often limited and subject to legal regulations. Here are some instances where immediate layoffs might occur:
 
-1. Termination for Cause:
+**1. Termination for Cause:**
 
 Gross Misconduct: If an employee engages in serious misconduct like theft, fraud, violence, or significant breach of company policy, the company might terminate them immediately without notice.   
-Breach of Contract: If an employee significantly violates the terms of their employment contract, the employer may terminate the contract without notice.   
-2. Redundancy or Retrenchment:
+Breach of Contract: If an employee significantly violates the terms of their employment contract, the employer may terminate the contract without notice.  
+
+
+**2. Redundancy or Retrenchment:**
 
 Business Necessity: In situations where the company faces severe financial difficulties, restructuring, or technological advancements that necessitate downsizing, they might be forced to lay off employees immediately. However, they are usually required to provide compensation and adhere to legal procedures.   
-3. Probationary Period:
+
+**3. Probationary Period:**
 
 Unsatisfactory Performance: During the probationary period, which is typically mentioned in the employment contract, either party may terminate the employment without providing notice, as long as it aligns with the terms agreed upon.   
-4. Health or Safety Concerns:
+
+**4. Health or Safety Concerns:**
 
 Risk to Others: If an employee poses a significant risk to their own safety, the safety of colleagues, or the overall work environment, the employer may consider immediate termination. However, they must demonstrate that all reasonable steps were taken to rectify the situation before resorting to termination.   
 Important Considerations:

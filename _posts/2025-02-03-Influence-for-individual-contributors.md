@@ -1,18 +1,8 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# 
+# Influence without Title
 
 ---
-
-# without being a manager, how do you wield a lot of informal influence and power in the organisation? Include some advice from HBR articles for the below.
-
-(1) Look at Reddit, Quora, and other forums for examples of how people have built informal authority. Find articles and guides on how to build influence without formal authority.
-(3) Find articles on network power and how one can position themselves in the organizational network to hold power.
-(4) Find articles on specific branding and self-promotion activities that have been used to gather authority.
-(5) Find information on how one chooses a field of expertise to become valuable. For example , someone who knows the numbers of business or someone with deep customer expertise
-(6) Find information on how one moves into high-impact projects. What strategies people use to navigate to high impact projects.
-(7) Find information on how to build strong relationships with colleagues and stakeholders, and also give examples of preferred communication styles used by such influencers.
-(8) For each of the formal authority powers that a manager possesses, give an equivalent counter-weight that a highly influential individual contributor can have. For example, a manager has authority over what projects their reportee individual contributor will work on. But if the individual contributor is not happy with the project, they can use their network to migrate to another project with more impact. Include a list of  some ten items for this
 
 In contemporary organizational structures, formal authority often represents only one dimension of power. The ability to wield informal influence has emerged as a critical competency for individual contributors seeking to drive change, secure high-impact opportunities, and shape organizational outcomes without managerial titles. This report synthesizes insights from academic research, industry case studies, and practitioner forums to map the multidimensional strategies for building and exercising informal power. Drawing on examples from platforms like Reddit and Quora, analyses of network dynamics from Deloitte, and frameworks from Harvard Business Review, we explore how professionals can position themselves as indispensable nodes in organizational ecosystems through deliberate personal branding, strategic relationship-building, and mastery of invisible organizational architectures.
 

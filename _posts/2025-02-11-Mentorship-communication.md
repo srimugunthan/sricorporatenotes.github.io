@@ -1,3 +1,4 @@
+# Mentorship communication style
 give some examples of a communication style with Mentorship tone fostering psychological safety
 
 ###### ChatGPT said:

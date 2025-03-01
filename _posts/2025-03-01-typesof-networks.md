@@ -54,7 +54,7 @@ Workplace network can also be categerized into:
 *   **Strategic network:** People who help you stay informed about opportunities and threats in the broader environment.
 *   **Developmental network:** People who help you grow and develop as a leader.
  
-        <img src="./netw3.jpg" alt="Before image">
+<img src="./netw3.jpg" alt="Before image">
 
 
     It is important to be strategic about the current network you have and the network groups that is missing in your connections and actively seeking out connections in that network group

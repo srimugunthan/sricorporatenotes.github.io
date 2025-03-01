@@ -29,7 +29,7 @@ Building the right networks is crucial for personal and professional success, es
     *   **Benefits:** Gain access to mentorship, job opportunities, and industry insights.
 
 
-<img src="./netw1.jpg" alt="Before image">
+<img src="./netw4.jpg" alt="Before image">
 **Workplace Network:**
 *   **Mentors:**
     *   Seek out mentors who can provide guidance and support in your career and personal development. 
@@ -45,8 +45,14 @@ Building the right networks is crucial for personal and professional success, es
     *   **How to build it:** Attend cross departmental meetings, offer your assistance on projects, and make an effort to understand the needs of other departments.
     *   **Benefits:** Increases your understanding of the business, allows you to better apply your data science skills to the business, and it increases your visibility within the company.
  <img src="./netw2.jpg" alt="Before image">
-    *  **Operational network:** People who help you get your team's daily work done.
-    *   **Strategic network:** People who help you stay informed about opportunities and threats in the broader environment.
-    *   **Developmental network:** People who help you grow and develop as a leader.
+
+Workplace network can also be categerized into:
+
+*   **Operational network:** People who help you get your team's daily work done.
+*   **Strategic network:** People who help you stay informed about opportunities and threats in the broader environment.
+*   **Developmental network:** People who help you grow and develop as a leader.
  
-        img src="./netw3.jpg" alt="Before image">
+        <img src="./netw3.jpg" alt="Before image">
+
+
+    It is important to be strategic about the current network you have and the network groups that is missing in your connections and actively seeking out connections in that network group

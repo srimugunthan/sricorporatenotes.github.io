@@ -1,3 +1,6 @@
+Building your power base relentlessly
+====================================
+
 Building a strong power base is a multifaceted process that requires consistent effort and strategic thinking. Here's a breakdown of key strategies, tailored with your data scientist background and self-improvement goals in mind:  
 
 **1\. Cultivate Expertise and Knowledge (Expert Power):**

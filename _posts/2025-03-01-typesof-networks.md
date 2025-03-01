@@ -57,4 +57,4 @@ Workplace network can also be categerized into:
 <img src="./netw3.jpg" alt="Before image">
 
 
-    It is important to be strategic about the current network you have and the network groups that is missing in your connections and actively seeking out connections in that network group
+It is important to be strategic about the current network you have and the network groups that is missing in your connections and actively seeking out connections in that network group

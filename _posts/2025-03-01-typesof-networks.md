@@ -46,11 +46,8 @@ Building the right networks is crucial for personal and professional success, es
     *   As a Data scientist, it is very important to build relationships with people in other departments, like marketing, sales, product, and operations. 
     *   **How to build it:** Attend cross departmental meetings, offer your assistance on projects, and make an effort to understand the needs of other departments.
     *   **Benefits:** Increases your understanding of the business, allows you to better apply your data science skills to the business, and it increases your visibility within the company.
-
-
-<img src="./netw2.jpg" alt="Before image">
-
-
+ 
+<img src="./netw3.jpg" alt="Before image">
 Workplace network can also be categerized into:
 
 *   **Operational network:** People who help you get your team's daily work done.

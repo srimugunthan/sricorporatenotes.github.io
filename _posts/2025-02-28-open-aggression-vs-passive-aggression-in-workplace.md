@@ -1,3 +1,6 @@
+Open aggression vs Passive aggression in corporate workplace
+============================================================
+
 
 Passive-aggressive behavior in a corporate environment can be subtle yet damaging. It allows individuals to express negative feelings indirectly, often leaving others feeling frustrated and confused. Here are some common tactics: 
 

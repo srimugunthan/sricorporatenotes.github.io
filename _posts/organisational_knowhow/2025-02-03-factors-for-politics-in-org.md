@@ -25,3 +25,6 @@ It is recommended that organizational leaders implement strategies to curb dysfu
 
 **Theoretical Insights:**  
 The application of the Conservation of Resources (COR) theory in this context highlights how politics-induced resource loss or the perception of such loss can trigger withdrawal behaviors. This understanding is crucial for effectively managing workplace stressors.
+
+reference: . Organisational Politics and Consequences: A Case Study of Federal Inland Revenue Service Offices in Borno and Yobe State of Nigeria 
+https://www.iosrjournals.org/iosr-jhss/papers/Vol.27-Issue10/Ser-5/J2710056779.pdf 

@@ -303,6 +303,149 @@ Even as an IC, you can lead by:
 
 By mastering these steps, you can establish yourself as a respected thought leader within your organization while retaining the autonomy of an individual contributor role.
 
+# Advice from Perplexity with milestones
+
+To become an influential individual contributor (IC), you need to develop deep expertise, leadership without authority, and the ability to make a measurable impact in your field. Below is a structured pathway with phases, achievements, and metrics to guide your journey.
+
+Phase 1: Building Core Competencies
+-----------------------------------
+
+Focus on mastering foundational skills in your domain.
+
+Key Achievements
+----------------
+
+*   Develop technical or functional expertise (e.g., programming, design, sales).
+    
+*   Complete foundational projects with measurable outcomes.
+    
+*   Build a personal portfolio or track record of successful deliverables.
+    
+
+Metrics for Success
+-------------------
+
+*   High rankings on platforms like LeetCode or Kaggle (e.g., top 5% globally for programming skills).
+    
+*   Completion of certifications or training programs (e.g., AWS Certified Developer, PMP).
+    
+*   Quantifiable project outcomes (e.g., reduced system downtime by 20%, improved code efficiency by 15%).
+    
+
+Phase 2: Demonstrating Ownership
+--------------------------------
+
+Take ownership of tasks and small projects to showcase reliability and problem-solving skills.
+
+Key Achievements
+----------------
+
+*   Successfully lead small projects from inception to delivery.
+    
+*   Contribute innovative ideas that improve workflows or outcomes.
+    
+*   Gain recognition as a reliable team member.
+    
+
+Metrics for Success
+-------------------
+
+*   Deliver projects ahead of deadlines or under budget (e.g., completed a software module 10% faster than planned).
+    
+*   Positive peer and manager feedback in performance reviews.
+    
+*   Contribution to team goals (e.g., increased customer satisfaction by 10%).
+    
+
+Phase 3: Developing Influence
+-----------------------------
+
+Expand your impact by influencing peers and contributing to strategic initiatives.
+
+Key Achievements
+----------------
+
+*   Mentor junior team members or onboard new hires.
+    
+*   Take initiative in cross-functional collaborations.
+    
+*   Contribute to high-impact projects that align with organizational goals.
+    
+
+Metrics for Success
+-------------------
+
+*   Mentorship success (e.g., mentees achieve promotions or meet key milestones).
+    
+*   Recognition through awards or nominations (e.g., “Employee of the Month”).
+    
+*   Tangible contributions to strategic goals (e.g., increased revenue by $500K through a product feature).
+    
+
+Phase 4: Becoming a Thought Leader
+----------------------------------
+
+Establish yourself as an expert and thought leader within your organization or industry.
+
+Key Achievements
+----------------
+
+*   Publish articles, blogs, or research papers in your field.
+    
+*   Speak at conferences or lead workshops.
+    
+*   Drive innovation through significant contributions.
+    
+
+Metrics for Success
+-------------------
+
+*   Published work cited by peers or referenced in industry forums.
+    
+*   Invitations to speak at industry events (e.g., TEDx, domain-specific conferences).
+    
+*   Patents filed or major innovations introduced.
+    
+
+Phase 5: Driving Organizational Impact
+--------------------------------------
+
+Operate at the highest level of influence, shaping strategies and driving large-scale changes.
+
+Key Achievements
+----------------
+
+*   Act as the go-to person for critical decisions in your area of expertise.
+    
+*   Lead high-stakes initiatives with measurable organizational outcomes.
+    
+*   Build strong relationships with senior stakeholders.
+    
+
+Metrics for Success
+-------------------
+
+*   Quantifiable organizational impact (e.g., saved $1M through process optimization).
+    
+*   Recognition as a subject matter expert across the organization.
+    
+*   Inclusion in strategic decision-making processes.
+    
+
+General Tips for Progression
+----------------------------
+
+1.  Seek Feedback: Regularly ask for input from peers and managers to identify areas for improvement.
+    
+2.  Track Achievements: Maintain a detailed record of your contributions and their outcomes.
+    
+3.  Upskill Continuously: Stay updated with industry trends and new tools/technologies.
+    
+4.  Build Relationships: Network within and outside your organization to expand influence.
+    
+
+By excelling in each phase and meeting these metrics, you can establish yourself as an influential individual contributor who drives both personal and organizational success.
+
 
 # Advice from Gemini
 

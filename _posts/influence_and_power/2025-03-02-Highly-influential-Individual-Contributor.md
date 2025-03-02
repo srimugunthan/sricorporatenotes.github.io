@@ -42,6 +42,92 @@ Key Behaviors Throughout
 
 What specific industry or role are you working in? I can provide more tailored advice based on your context.
 
+# Advice from claude with milestones in the path
+
+Path to Becoming an Influential Individual Contributor
+======================================================
+
+Here's a structured path to becoming an influential individual contributor (IC), broken down into phases with specific achievements and metrics to track your progress:
+
+Phase 1: Technical Foundation (1-3 years)
+-----------------------------------------
+
+**Focus**: Mastering core technical skills in your domain
+
+**Key Achievements & Metrics:**
+
+*   Complete 200+ LeetCode problems (reaching top 5-10% ranking)
+*   Contribute to 3-5 open-source projects with accepted pull requests
+*   Build 2-3 substantial personal projects demonstrating technical depth
+*   Earn relevant certifications (e.g., AWS, Google Cloud, specialized frameworks)
+*   Consistently meet or exceed sprint goals by 10-15%
+*   Develop expertise in at least one programming language/framework to advanced level
+
+Phase 2: Team Impact (2-4 years)
+--------------------------------
+
+**Focus**: Delivering high-value work and becoming essential to your team
+
+**Key Achievements & Metrics:**
+
+*   Lead the design and implementation of at least 2 major features/projects
+*   Reduce production incidents or bugs by 20-30% through improved practices
+*   Create reusable components/libraries used by multiple teams
+*   Achieve 80%+ test coverage on your code contributions
+*   Become the go-to person for at least one technical domain
+*   Demonstrate consistent velocity (complete 90%+ of committed story points)
+*   Receive recognition in performance reviews for exceeding expectations
+
+Phase 3: Organizational Influence (3-5 years)
+---------------------------------------------
+
+**Focus**: Extending impact beyond immediate team
+
+**Key Achievements & Metrics:**
+
+*   Author 5+ internal technical documents/guides widely referenced by others
+*   Present at 3-5 company-wide tech talks or knowledge sharing sessions
+*   Mentor 2-3 junior engineers successfully (measured by their promotion/growth)
+*   Introduce 1-2 process improvements that increase team productivity by 15%+
+*   Drive adoption of best practices across multiple teams
+*   Contribute to technical roadmap planning beyond your immediate team
+*   Reduce technical debt by refactoring critical systems (with measurable performance improvements)
+
+Phase 4: Industry Recognition (5+ years)
+----------------------------------------
+
+**Focus**: Building external reputation and influence
+
+**Key Achievements & Metrics:**
+
+*   Speak at 2-3 industry conferences annually
+*   Publish 8-12 technical articles/year with 10k+ views each
+*   Build a professional social media following (5k+ followers on Twitter/LinkedIn)
+*   Contribute significantly to major open-source projects (500+ GitHub stars on contributions)
+*   Create educational content reaching 20k+ developers
+*   Be cited in industry reports or publications
+*   Participate in standards bodies or working groups
+*   Achieve specialized industry recognition (e.g., Google Developer Expert, AWS Hero)
+
+Phase 5: Transformational Impact (8+ years)
+-------------------------------------------
+
+**Focus**: Creating lasting change in your field
+
+**Key Achievements & Metrics:**
+
+*   Pioneer new methodologies or approaches adopted by multiple organizations
+*   Create a technical innovation that impacts 100k+ users
+*   Author a technical book or comprehensive course with strong reviews
+*   Build a community of 10k+ professionals around your area of expertise
+*   Influence product direction at your company based on technical vision
+*   Become a decision-maker on architectural choices affecting multiple teams/products
+*   Have your work referenced in academic papers or industry standards
+*   Maintain high performance while mentoring multiple senior engineers
+
+Throughout each phase, focus on measuring both quantitative metrics (like the ones above) and qualitative feedback from peers, managers, and the broader community. The specific metrics may vary depending on your field, but the progression from technical mastery to broad influence remains consistent.
+
+
 # Advice from Perplexity
 
 To become a highly influential individual contributor (IC), you need a combination of technical expertise, soft skills, strategic thinking, and proactive self-development. Below is a structured path to achieve this:

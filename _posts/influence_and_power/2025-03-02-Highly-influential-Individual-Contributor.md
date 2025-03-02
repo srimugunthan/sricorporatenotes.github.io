@@ -1,5 +1,47 @@
 Highly influential IC
 ======================
+*Advice from Claude*
+To become a highly influential individual contributor (IC), you need to develop expertise, relationships, and communication skills that extend your impact beyond your direct work. Here's a structured path:
+
+Foundation Phase
+----------------
+
+1.  **Master your craft** - Develop deep technical expertise in your field
+2.  **Deliver consistently** - Build a track record of high-quality work
+3.  **Find your specialty** - Identify a valuable niche where you can excel
+
+Growth Phase
+------------
+
+1.  **Develop broad knowledge** - Understand adjacent domains and business context
+2.  **Build your network** - Form relationships across teams and management levels
+3.  **Cultivate mentors and sponsors** - Find experienced guides and advocates
+
+Influence Phase
+---------------
+
+1.  **Communicate effectively** - Learn to explain complex ideas simply
+2.  **Develop thought leadership** - Share insights through writing, talks, or workshops
+3.  **Volunteer for cross-functional projects** - Solve problems that affect multiple teams
+
+Amplification Phase
+-------------------
+
+1.  **Mentor others** - Help develop the next generation
+2.  **Drive initiatives without authority** - Lead through influence, not position
+3.  **Champion organizational improvements** - Identify and solve systemic issues
+
+Key Behaviors Throughout
+------------------------
+
+*   Be solutions-oriented rather than problem-focused
+*   Build relationships before you need them
+*   Make others successful through your work
+*   Remain humble and credit others generously
+*   Balance strong opinions with openness to feedback
+
+What specific industry or role are you working in? I can provide more tailored advice based on your context.
+*Advice from Perplexity*
 
 To become a highly influential individual contributor (IC), you need a combination of technical expertise, soft skills, strategic thinking, and proactive self-development. Below is a structured path to achieve this:
 

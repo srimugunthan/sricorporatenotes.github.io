@@ -1,32 +1,5 @@
 presenting your case for performance
 =====================================
-Bold
-Italic
-Underline
-
-- Header -
-
-- Font Size -
-Bullet Points
-Numbering
-When presenting your case for performance before a review, focus on highlighting your key accomplishments, measurable achievements, contributions to the team, and how your work directly aligns with company goals, while also demonstrating self-awareness by discussing areas where you've grown and potential areas for further development; use concrete examples and data to support your claims, and be prepared to discuss challenges you overcame and how you adapted to new situations. 
-Key elements to include:
-Introduction:
-Briefly summarize your role and responsibilities, setting the context for your performance overview. 
-Major Achievements:
-List your most significant accomplishments, emphasizing those that directly impacted the company's bottom line or key metrics. 
-Quantify your achievements with data like percentages, numbers, or specific project outcomes whenever possible. 
-Include examples of how your work went beyond expectations or solved complex problems. 
-Contributions to Team Success:
-Highlight instances where your collaboration with colleagues led to positive results or improved team dynamics. 
-Demonstrate how your actions supported the overall team goals and objectives. 
-Areas for Growth:
-Show self-awareness by acknowledging areas where you are actively working to improve or develop new skills. 
-Discuss specific steps you are taking to address these areas, such as attending training or seeking mentorship. 
-Alignment with Company Goals:
-Explain how your accomplishments directly align with the company's strategic priorities and objectives. 
-Demonstrate an understanding of the company's vision and how your work contributes to achieving it. 
-Convert to Markdown
 *   When presenting your case for performance before a review, focus on highlighting your key accomplishments, measurable achievements, contributions to the team, and how your work directly aligns with company goals, while also demonstrating self-awareness by discussing areas where you've grown and potential areas for further development; use concrete examples and data to support your claims, and be prepared to discuss challenges you overcame and how you adapted to new situations. 
     
     Key elements to include:
@@ -55,8 +28,6 @@ Convert to Markdown
         
         *   Explain how your accomplishments directly align with the company's strategic priorities and objectives. 
         *   Demonstrate an understanding of the company's vision and how your work contributes to achieving it.
-Clear AllCopy to Clipboard
-
 
 * Example *
 *   **Quantifiable Achievements:**

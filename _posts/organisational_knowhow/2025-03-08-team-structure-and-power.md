@@ -11,8 +11,6 @@ While this clarifies accountability, it risks stagnation; P&G’s 2024 restructu
 
 (https://www.heflo.com/blog/business-management/small-business-organizational-structure-examples/). 
 
-(https://www.heflo.com/blog/business-management/small-business-organizational-structure-examples/)
-
 (https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6F918ABDEC85B651BBB41026D8E890C5/S1469356921000197a.pdf/how_does_business_power_operate_a_framework_for_its_working_mechanisms.pdf).
 
 Matrix Structures: Dual Reporting Lines

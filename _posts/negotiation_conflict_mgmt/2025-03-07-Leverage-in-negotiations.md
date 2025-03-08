@@ -1,7 +1,7 @@
 Leverage in negotiations:
 =========================
 
-*   **Information **: Information is power. Being well-informed about all aspects of the negotiation—such as the needs, wants, strengths, and weaknesses of the other party—can significantly boost your leverage. Thorough research and preparation enable you to anticipate the other party's moves and prepare counterarguments.
+*  **Information**: Information is power. Being well-informed about all aspects of the negotiation—such as the needs, wants, strengths, and weaknesses of the other party—can significantly boost your leverage. Thorough research and preparation enable you to anticipate the other party's moves and prepare counterarguments.
     
 *   **Timing**: Control the timing. If you can control the timing of the negotiations, you can create leverage. For example, if there’s no rush for you to conclude a deal, but the other party is under time pressure, your ability to delay gives you leverage.
     

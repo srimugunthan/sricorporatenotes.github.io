@@ -1,5 +1,6 @@
-Convert to Markdown
+
 The Hierarchical Framework of Corporate Power
+==================================================
 
 **Board of Directors: The Apex of Formal Authority**
 

@@ -21,13 +21,14 @@ Leverage in negotiations:
 *   **Expertise and Reputation**: Being recognized as an expert or having a strong reputation in your field can give you leverage. People are more likely to concede to those whom they believe possess greater knowledge or credibility.
     
 *   **Dependency**: Capitalize on dependency. If the other party depends on what you provide—whether it's a service, product, or resource—you hold leverage. Understanding and, ethically, maximizing this dependency can strengthen your position.
-*   *   **Need:**
+    *   **Need:**
     *   The less you appear to need the deal, the stronger your position.
     
 *   **Emotional Control**: Keeping your emotions in check and remaining calm and collected during negotiations can provide leverage. If you’re not visibly desperate or too eager, you maintain an air of having other options.
     
 *   **Communication**: Communicate value clearly. Make sure the other party understands the value of what you are offering. If they perceive your offer as valuable, your leverage increases.
-    **Strategic Communication**
+
+      **Strategic Communication**
     *   Confidence and Clarity: Communicate your points with confidence and clarity. Use assertive language to position yourself as a valuable partner  
     *   Concessions: Strategically concede on minor points to create psychological wins for your counterpart, fostering goodwill
 
@@ -44,8 +45,11 @@ Leverage in negotiations:
     
 
 (https://en.wikipedia.org/wiki/Leverage_(negotiation) )
+
 (https://www.expertnegotiator.com/blog/what-is-leverage-10-rules-for-using-it-well/ )
+
 (https://www.alignednegotiation.com/insights/overview-what-to-do-when-you-have-no-leverage-in-a-negotiation).
+
 (https://www.expertnegotiator.com/blog/what-is-leverage-10-rules-for-using-it-well/).
 
 

@@ -43,7 +43,7 @@ Leverage in negotiations:
 
     
 
-(https://en.wikipedia.org/wiki/Leverage_(negotiation)
+(https://en.wikipedia.org/wiki/Leverage_(negotiation) )
 (https://www.expertnegotiator.com/blog/what-is-leverage-10-rules-for-using-it-well/ )
 (https://www.alignednegotiation.com/insights/overview-what-to-do-when-you-have-no-leverage-in-a-negotiation).
 (https://www.expertnegotiator.com/blog/what-is-leverage-10-rules-for-using-it-well/).

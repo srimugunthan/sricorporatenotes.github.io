@@ -108,3 +108,21 @@ Building a strong power base is a multifaceted process that requires consistent 
     
 
 By consistently applying these strategies, you can build a strong and sustainable power base that will contribute to your success.
+
+Order in which you build your power base
+=========================================
+
+Building a power base using the various power currencies involves a strategic approach, where you assess your current assets, identify gaps, and leverage opportunities to enhance your influence. Here’s a general order and strategy you might consider to effectively build your power base:
+
+1.  **Develop Personal Currency**: Start with self-development. Enhance your charisma, communication skills, integrity, and other personal attributes. This forms the foundation of trust and respect, which are critical for any influential relationship. By building a strong personal reputation, you can more easily gain the trust and cooperation of others.
+    
+2.  **Acquire Expertise Currency**: Invest in yourself by gaining knowledge and skills in your chosen field. Becoming an expert not only increases your value in your organization but also in your industry. Expertise makes you a go-to person in your area, thus naturally expanding your influence.
+    
+3.  **Cultivate Social Currency**: As you develop your personal traits and expertise, simultaneously work on building and maintaining robust relationships. Networking—both within and outside your organization—can open up numerous opportunities. The relationships you foster can provide support, information, and more opportunities to leverage other forms of currency.
+    
+4.  **Amass Resource Currency**: With a solid reputation, proven expertise, and a strong network, you'll likely find it easier to gain access to important resources. This could mean securing funding for projects, gaining exclusive information, or having the right tools at your disposal. Control over resources significantly enhances your ability to influence outcomes.
+    
+5.  **Seek Positional Currency**: Often, the culmination of developing the other currencies is achieving a position of authority. With a strong personal base, expertise, network, and control over resources, you're in a better position to attain and succeed in leadership roles. Positional power can then be used to further consolidate your power base, making it easier to implement changes and influence broader outcomes.
+    
+
+Each step builds on the previous ones, creating a robust power base that enhances your influence within any organizational or social structure. The key is to continuously invest in each currency, maintaining and adapting your approach as your environment and goals evolve.

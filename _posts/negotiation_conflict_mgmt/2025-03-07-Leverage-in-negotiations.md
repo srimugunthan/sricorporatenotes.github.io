@@ -24,6 +24,18 @@ Leverage in negotiations:
 *   **Emotional Control**: Keeping your emotions in check and remaining calm and collected during negotiations can provide leverage. If you’re not visibly desperate or too eager, you maintain an air of having other options.
     
 *   **Communication**: Communicate value clearly. Make sure the other party understands the value of what you are offering. If they perceive your offer as valuable, your leverage increases.
+*   . Normative Leverage
+--------------------
+
+*   Social Standards: Use social norms or industry standards to justify your terms, making them appear fair and reasonable[5](https://en.wikipedia.org/wiki/Leverage_(negotiation))[6](https://www.expertnegotiator.com/blog/what-is-leverage-10-rules-for-using-it-well/).
+    
+
+. Strategic Communication
+-------------------------
+
+*   Confidence and Clarity: Communicate your points with confidence and clarity. Use assertive language to position yourself as a valuable partner[3](https://www.alignednegotiation.com/insights/overview-what-to-do-when-you-have-no-leverage-in-a-negotiation).
+    
+*   Concessions: Strategically concede on minor points to create psychological wins for your counterpart, fostering goodwill[6](https://www.expertnegotiator.com/blog/what-is-leverage-10-rules-for-using-it-well/).
 
 *   **BATNA (Best Alternative to a Negotiated Agreement):** 
     *   This is your most powerful tool. Knowing your alternatives gives you the confidence to walk away if the deal isn't right. 

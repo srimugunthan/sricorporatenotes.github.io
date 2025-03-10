@@ -20,3 +20,6 @@ Building influence
     *   Influence is a gradual process, constructed through consistent and meaningful interactions.
     *   While you may not know everyone in your organization, focusing on building strong relationships with those you do know is crucial.
     *   Building 15 strong relationships a year will greatly increase influence over time.
+
+References:
+https://debliu.substack.com/p/what-we-get-wrong-about-influence 

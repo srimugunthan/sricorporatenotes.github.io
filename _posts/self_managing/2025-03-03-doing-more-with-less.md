@@ -9,6 +9,15 @@
 *   **Mindfulness:** Be present and intentional in your actions, avoiding distractions and multitasking.
 Following a disciplined approach can help you maximize output while minimizing resources. Here are three examples of how discipline enables "doing more with less":
 
+Strategic Elimination of Non-Essentials
+---------------------------------------
+
+The Psychology of Prioritization
+--------------------------------
+
+Discipline begins with the deliberate exclusion of distractions. As highlighted in _The Road Less Traveled_, disciplined individuals recognize that "without discipline we can solve nothing," emphasizing the need to confront challenges through structured focus[3](https://www.entrepreneur.com/leadership/discipline-is-what-leads-to-success/321379). This aligns with minimalist principles advocating for the elimination of non-essential tasks and possessions. For instance, a study cited by BetterUp reveals that American businesses waste $8 billion annually managing paper, underscoring the inefficiencies of clinging to outdated systems[4](https://www.betterup.com/blog/minimalism-tips). By digitizing documents and decluttering workspaces, individuals reclaim cognitive bandwidth, allowing them to channel energy toward high-impact activities[4](https://www.betterup.com/blog/minimalism-tips).
+
+
 1\. Time Blocking
 -----------------------
 Working with full concentration for 25-90 minutes, A disciplined practitioner might complete in 3 focused hours what takes others an entire workday.

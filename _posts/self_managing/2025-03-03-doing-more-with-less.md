@@ -18,6 +18,8 @@ A disciplined learning approach yields faster progress with less wasted effort:
 
 Rather than spending years on unfocused practice, this discipline can accelerate mastery by targeting exactly what matters most.
 
+**Consistent small lessons and Spaced Repetition**: 15 minutes a day, every day, is more effective than 3 hours once a week. Use tools like Anki to review concepts and skills at optimal intervals, maximizing retention.
+
 3\. Creating systems 
 ---------------------
  "creating systems to maintain order without constant effort 

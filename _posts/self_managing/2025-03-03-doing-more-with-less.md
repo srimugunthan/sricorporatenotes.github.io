@@ -1,5 +1,12 @@
 
+"Doing more with less" through discipline is about optimizing your resources – time, energy, and materials – to achieve greater output. Here's how, along with three examples relevant to your data scientist background and self-improvement goals:
 
+**Core Principles:**
+
+*   **Prioritization:** Focus on the most impactful tasks, eliminating or delegating the rest.
+*   **Efficiency:** Streamline processes, reduce waste, and leverage tools effectively.
+*   **Consistency:** Establish routines and habits to maximize productivity and minimize decision fatigue.
+*   **Mindfulness:** Be present and intentional in your actions, avoiding distractions and multitasking.
 Following a disciplined approach can help you maximize output while minimizing resources. Here are three examples of how discipline enables "doing more with less":
 
 1\. Time Blocking

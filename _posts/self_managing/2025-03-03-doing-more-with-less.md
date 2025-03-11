@@ -63,3 +63,17 @@ Disciplined minimalism helps you derive more value from fewer possessions:
 *   Regularly evaluating possessions against actual needs
 
 This discipline reduces maintenance costs, mental clutter, and decision fatigue while increasing appreciation for what you have.
+
+ 5\. Skill Stacking:
+ --------------------
+Focus on learning skills that complement each other, creating synergistic effects. For example, learning advanced SQL alongside machine learning.
+
+
+ 6\. Mindful Energy Management (Success in Life):
+ --------------------------------------------------
+
+*   **Discipline:**
+    *   **Regular Sleep Schedule:** Prioritize consistent sleep to optimize cognitive function and energy levels.
+    *   **Mindful Breaks:** Take short, intentional breaks throughout the day to recharge and avoid burnout.
+    *   **Strategic Prioritization:** Identify and focus on the most important tasks, avoiding energy-draining distractions.
+    *   **Healthy Habits:** Consistent exercise and good nutrition.

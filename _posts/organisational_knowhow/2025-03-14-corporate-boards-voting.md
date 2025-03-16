@@ -53,3 +53,7 @@ Let's say a company's board has 10 directors and is considering a major acquisit
 *   **Corporate Governance:** Voting arrangements and veto powers are crucial aspects of corporate governance, ensuring that decisions are made in the best interests of the company and its shareholders.
 *   **Shareholder Rights:** These arrangements can impact shareholder rights, particularly in companies with complex ownership structures.
 *   **Transparency:** Clear and transparent voting procedures are essential for maintaining trust and accountability.
+
+
+Reference:
+https://corpgov.law.harvard.edu/2016/09/08/principles-of-corporate-governance/ 

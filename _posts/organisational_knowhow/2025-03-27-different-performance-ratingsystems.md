@@ -55,6 +55,7 @@ The most effective approach often involves a combination of these methods to pro
 The choice of method(s) should align with the organization's culture, goals, and the nature of the work being performed.
 
 Comparison
+==========
 
 | Performance Review Method | Subjectivity to Manager | Objective Criteria Maintained |
 | --- | --- | --- |

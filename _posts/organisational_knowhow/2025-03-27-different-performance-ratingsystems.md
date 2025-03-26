@@ -51,6 +51,10 @@ There are various methods organizations use to conduct performance reviews, each
 *   **Pros:** Provides concrete evidence to support performance ratings and feedback, helps identify key strengths and areas needing improvement. 
 *   **Cons:** Can be time-consuming to track incidents consistently, may focus too much on isolated events rather than overall performance.
 
+*   *   **Developmental Performance Appraisal**: This method focuses on employee development rather than just evaluation. The reviews are used as an opportunity to identify development needs, career aspirations, and potential growth opportunities for employees.
+    
+*   **Behaviorally Anchored Rating Scales (BARS)**: This method uses specific behaviors as examples of various levels of performance. It provides a range from poor to excellent, with behavior examples that help to standardize the rating of employees.
+
 The most effective approach often involves a combination of these methods to provide a well-rounded and fair evaluation of employee performance. 
 The choice of method(s) should align with the organization's culture, goals, and the nature of the work being performed.
 

@@ -54,52 +54,24 @@ There are various methods organizations use to conduct performance reviews, each
 The most effective approach often involves a combination of these methods to provide a well-rounded and fair evaluation of employee performance. 
 The choice of method(s) should align with the organization's culture, goals, and the nature of the work being performed.
 
-Performance Review Method
+Comparison
 
-Subjectivity to Manager
+| Performance Review Method | Subjectivity to Manager | Objective Criteria Maintained |
+| --- | --- | --- |
+| Relative Grading (Forced Ranking) | High | Moderate |
+| Absolute Rating Scales | Moderate to High | Moderate to High |
+| Management by Objectives (MBO) | Moderate | High (if goals are SMART) |
+| 360-Degree Feedback | Low (for individual rater), Moderate (overall interpretation) | Moderate (depending on questions) |
+| Self-Assessment | N/A (employee driven) | Moderate (if standards exist) |
+| Narrative or Essay Appraisals | Very High | Low |
+| Critical Incident Method | Moderate | Moderate to High (if incidents are well-documented) |
 
-Objective Criteria Maintained
+*   **Relative Grading:** While the _act_ of ranking can seem objective, the _criteria_ used for the ranking (what makes one peer better than another) is often subjective and determined by the manager. The objectivity comes from the direct comparison within the peer group.
+*   **Absolute Rating Scales:** The subjectivity depends heavily on the clarity and behavior-anchored nature of the rating scale. A simple numerical scale with vague descriptions is highly subjective. A BARS (Behaviorally Anchored Rating Scale) with specific examples for each level increases objectivity.
+*   **Management by Objectives (MBO):** If the goals are truly SMART (Specific, Measurable, Achievable, Relevant, Time-bound), the evaluation of whether they were met is quite objective. However, the _setting_ of these goals can involve some subjectivity in terms of what is prioritized and how challenging the goals are.
+*   **360-Degree Feedback:** Individual feedback from raters can be subjective, reflecting their personal interactions and perceptions. However, the process aims to reduce the impact of a single manager's bias by collecting feedback from multiple sources. The objectivity lies in the aggregated data and the focus on specific behaviors or competencies. The design of the feedback questions (e.g., behavior-based vs. trait-based) also influences objectivity.
+*   **Self-Assessment:** This is inherently subjective as it's based on the employee's own perception. However, if clear performance standards and expectations are provided, the employee can try to assess themselves against these more objective criteria.
+*   **Narrative or Essay Appraisals:** This method relies heavily on the manager's writing skills, interpretation, and personal perspective, making it the most subjective. Objective criteria are often less explicitly defined or consistently applied.
+*   **Critical Incident Method:** By focusing on specific events and behaviors, this method can be more objective than general ratings. However, the manager still plays a role in selecting which incidents to document and how to interpret their significance. Consistent and thorough documentation increases objectivity.
 
-**Relative Grading (Forced Ranking)**
-
-High
-
-Moderate
-
-**Absolute Rating Scales**
-
-Moderate to High
-
-Moderate to High
-
-**Management by Objectives (MBO)**
-
-Moderate
-
-High (if goals are SMART)
-
-**360-Degree Feedback**
-
-Low (for individual rater), Moderate (overall interpretation)
-
-Moderate (depending on questions)
-
-**Self-Assessment**
-
-N/A (employee driven)
-
-Moderate (if standards exist)
-
-**Narrative or Essay Appraisals**
-
-Very High
-
-Low
-
-**Critical Incident Method**
-
-Moderate
-
-Moderate to High (if incidents are well-documented)
-
-Export to Sheets
+It's important to note that no performance appraisal method is perfectly objective or subjective. Organizations often strive for a balance, incorporating elements of both to create a fair and developmental process. The effectiveness of any method also depends on factors like the training of managers, the clarity of performance expectations, and the overall organizational culture.

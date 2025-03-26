@@ -76,3 +76,11 @@ Comparison
 *   **Critical Incident Method:** By focusing on specific events and behaviors, this method can be more objective than general ratings. However, the manager still plays a role in selecting which incidents to document and how to interpret their significance. Consistent and thorough documentation increases objectivity.
 
 It's important to note that no performance appraisal method is perfectly objective or subjective. Organizations often strive for a balance, incorporating elements of both to create a fair and developmental process. The effectiveness of any method also depends on factors like the training of managers, the clarity of performance expectations, and the overall organizational culture.
+
+
+References
+https://www.performyard.com/articles/stack-rankings-what-theyre-good-for-and-where-they-fail 
+
+https://news.ycombinator.com/item?id=6268483
+
+https://www.reddit.com/r/slatestarcodex/comments/14gvgln/how_microsofts_ruthless_employee_evaluation/ 

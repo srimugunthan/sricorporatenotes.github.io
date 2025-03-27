@@ -63,3 +63,27 @@ Considering MAANG companies as a standard, and acknowledging that these are stil
 
     
   ====================================================================================================
+
+  *Answer from chatGPT*
+
+  Based on the image you've shared — which outlines IC (individual contributor) levels from L3 to L9 along with their scope — here's a rough estimate of how career progression tends to filter people across those levels by the time they have ~20 years of experience:
+
+### Estimated Distribution After 20 Years:
+| Level | Scope | Estimated % |
+| --- | --- | --- |
+| L5 (Senior) | Project | 30% |
+| L6 (Staff) | Product / System | 35% |
+| L7 (Senior Staff) | Product Group / Org | 20% |
+| L8 (Principal) | Company | 10% |
+| L9 (Distinguished) | Industry | < 5% |
+
+
+### Assumptions:
+
+*   **L5-L6** is where most people plateau — they’re experienced, solid contributors or technical leads.
+    
+*   **L7** requires strong cross-functional leadership and broader org influence — fewer make it here.
+    
+*   **L8+** levels are rarefied, with a steep drop-off due to the scope, visibility, and influence needed.
+    
+*   **L9** is extremely rare — often considered equivalent to a VP or a company-wide technical visionary.

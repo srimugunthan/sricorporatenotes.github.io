@@ -23,6 +23,8 @@ However, based on common understanding, **3 to 7 people** is a reasonable estima
 
 
 =====
+
+
 *Answer from chatGPT*:
 The concept of a "sphere of influence" in a management or leadership context typically refers to the number of people a manager or leader can effectively lead, manage, or influence. This number can vary based on many factors including the nature of the work, the organizational structure, and the manager's or leader's skill set.
 
@@ -40,6 +42,7 @@ In practical terms, the number can vary widely based on the organization's size,
 Ultimately, the effectiveness of a lead's influence isn't solely about the number of people but how effectively they can guide, motivate, and impact their team's productivity and morale.
 
 =====
+
 *Answer from perplexity*:
 The sphere of influence for a hands-on Tech Lead typically extends beyond managing a specific number of direct reports. Unlike a manager, whose influence is often limited to 8-9 people in their immediate team, a Tech Lead's influence is broader and more dynamic due to their technical expertise and leadership role within projects.
 

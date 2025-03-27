@@ -46,7 +46,7 @@ Here's a rough estimate of the percentage of people at each level after a 20-yea
     
     *   Higher levels (L7+) align with "Product Group/Org" or "Company" scope in the image, implying fewer roles exist.
   
-  ====================================================================================================================
+  ===========================================================================================================
 
 *Answer from Gemini*
 
@@ -62,4 +62,4 @@ Considering MAANG companies as a standard, and acknowledging that these are stil
 *   Others may leave the company before 20 years for various reasons, including starting their own ventures or moving to other opportunities.
 
     
-  ====================================================================================================================
+  ====================================================================================================

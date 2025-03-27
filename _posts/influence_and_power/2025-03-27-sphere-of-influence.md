@@ -54,7 +54,6 @@ Key Aspects of a Tech Lead's Sphere of Influence:
     
 4.  **Mentorship and Guidance**: Beyond immediate team members, Tech Leads often mentor junior developers across the organization, extending their influence informally.
 
-  =============
     
 6.  **Stakeholder Communication**: They act as a bridge between technical teams and business leaders, influencing project priorities and timelines.
     
@@ -62,4 +61,60 @@ Key Aspects of a Tech Lead's Sphere of Influence:
     
 
 In summary, while a manager's sphere of influence is typically bounded by direct reports, a hands-on Tech Lead's sphere is more fluid and extends across technical domains, cross-functional teams, and organizational culture.
+
+=========
+
+*Answer from Deepseek*
+
+The sphere of influence for a **hands-on Tech Lead** can vary based on factors like team structure, organizational culture, and the Tech Lead's responsibilities. However, here’s a general guideline:
+
+### **Typical Sphere of Influence for a Tech Lead:**
+
+1.  **Direct Team Influence (4–8 people)**
+    
+    *   A Tech Lead typically works closely with their immediate engineering team (developers, QA, etc.).
+        
+    *   Since they are **hands-on**, their bandwidth is limited, so they can effectively mentor, guide, and influence around **4–8 engineers** directly.
+        
+2.  **Cross-Team Influence (Up to 10–15 people, but less direct)**
+    
+    *   If the Tech Lead collaborates with other teams (e.g., product, DevOps, UX), their indirect influence may extend further, but not as deeply as with their core team.
+        
+    *   They might provide architectural guidance, code reviews, or best practices to a slightly larger group, but this is less hands-on.
+        
+
+### **Comparison with a Manager’s Influence (8–9 people):**
+
+*   A **manager** focuses on people leadership, career growth, and processes, so their influence is more about **alignment and direction** for ~8–9 people.
+    
+*   A **Tech Lead**, being technical, has a **deeper but narrower influence**—they shape technical decisions, coding standards, and engineering practices rather than people management.
+    
+
+### **Key Factors Affecting a Tech Lead’s Influence:**
+
+*   **Hands-on coding time**: The more they code, the fewer people they can deeply influence.
+    
+*   **Team maturity**: Senior teams need less guidance, allowing broader influence.
+    
+*   **Organizational structure**: In flat orgs, Tech Leads may influence more people; in hierarchical ones, their impact may be more contained.
+    
+
+### **Conclusion:**
+
+A hands-on Tech Lead’s **direct, meaningful influence** is usually **4–8 engineers**, similar to a manager but more technically focused. Their **indirect influence** (e.g., through architecture or mentorship) might reach slightly more, but not as deeply.
+
+
+======
+
+*Answer from Grok*
+
+A hands-on Tech Lead's sphere of influence typically extends beyond the 8 or 9 people often cited for a traditional manager, though it depends on the context, team size, and organizational structure. Unlike a manager, whose influence is primarily about people management (e.g., performance reviews, task delegation, and team coordination), a Tech Lead blends technical expertise with leadership, directly impacting both the team and the work itself.
+
+For a hands-on Tech Lead, the sphere of influence can be broken into two layers:
+
+1. **Direct Team Influence**: This usually includes the immediate team they work with—often 5 to 10 engineers, aligning with common software team sizes (e.g., Amazon’s “two-pizza team” rule, where teams are small enough to be fed by two pizzas, roughly 6-10 people). They guide these individuals technically, mentor them, and often pair program or review code, making their influence more intimate and hands-on than a typical manager’s.
+
+2. **Broader Technical Influence**: Beyond the team, a Tech Lead’s decisions on architecture, code quality, and technical direction can ripple out to other teams, stakeholders, or even the entire product. If they’re setting standards, writing reusable code, or collaborating with other Tech Leads, their influence might touch dozens of people indirectly—potentially 20-50+ depending on the company size and project scope.
+
+So, while a manager’s sphere is capped by their capacity to oversee people (often 8-9 direct reports before it becomes unwieldy), a hands-on Tech Lead’s sphere is more elastic. Directly, it’s likely 5-10 team members; indirectly, it could stretch much further through their technical contributions. In practice, their most effective influence—where they’re actively shaping outcomes—probably maxes out around 10-15 people before dilution sets in, assuming they’re still coding and not just delegating. Larger spheres are possible but less hands-on, shifting them closer to a pure leadership role.
 

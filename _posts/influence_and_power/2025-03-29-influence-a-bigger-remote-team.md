@@ -47,6 +47,14 @@ Larger teams ignore small teams unless they _need_ something from them. So:
 ### **Trade Favors:**
 Offer to help larger teams with their pain points in exchange for their support on your priorities.
 
+### **Reverse-Psychology Stakeholder Management**
+
+### 
+
+*   **Ask for "advice," not approval.** People love feeling smart. Instead of "Can we do X?" try "We’re thinking of X—what’s the biggest risk you see?" They’ll often greenlight just to avoid seeming obstructive.
+    
+*   **Let them "steal" your ideas** – Pitch something as a half-baked thought in a casual chat. If a big-team leader later presents it as their own? Fine—now it has their sponsorship.
+  
 ### **Stay Adaptable & Resilient**
 
 *   **Pick Your Battles:** Focus on high-impact areas where your influence matters most.

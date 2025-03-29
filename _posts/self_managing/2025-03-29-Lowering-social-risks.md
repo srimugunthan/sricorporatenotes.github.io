@@ -59,6 +59,7 @@ The higher the social risk, the less likely people are to approach you—even if
 *   Reframe thoughts: _"Asking early saves time—smart people double-check."_
     
 *   Start small: Ask low-stakes questions first to build confidence.
+*   "what is the worst that could happen" mindset shift
     
 
 #### **✅ For Others (If You Want to Be More Approachable):**

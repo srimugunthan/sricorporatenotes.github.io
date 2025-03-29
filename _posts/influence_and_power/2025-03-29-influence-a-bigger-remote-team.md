@@ -44,6 +44,11 @@ Larger teams ignore small teams unless they _need_ something from them. So:
     
 *   **Become the bridge between two big teams** – If Team A and Team B don’t talk much, position yourself as the translator. They’ll default to you for coordination.
 
+### ** Use "Controlled Chaos" to Your Advantage
+Let big teams hit snags (sometimes). If they ignore your warnings, let a small failure happen—then swoop in with a fix. They’ll listen next time.
+
+Schedule meetings at odd hours – If decision-makers are in different time zones, sometimes holding a late-night/early-morning call filters out the bureaucracy and leaves only the people who actually get things done.
+
 ### **Trade Favors:**
 Offer to help larger teams with their pain points in exchange for their support on your priorities.
 

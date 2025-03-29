@@ -158,25 +158,13 @@ To build a **resilient team and project structure** that can withstand attrition
 
 ### **Example Resilient Team Setup**
 
-**Traditional Team**
+| Traditional Team | Attrition-Resistant Team |
+| --- | --- |
+| Siloed specialists (e.g., "DB Admin") | Hybrid roles (e.g., "Backend + DB skills") |
+| One person owns critical scripts | Scripts documented + pair-programmed |
+| Ad-hoc documentation | Searchable runbooks + decision logs |
+| Manager approves all changes | Pods autonomously merge via CI/CD checks |
 
-**Attrition-Resistant Team**
-
-Siloed specialists (e.g., "DB Admin")
-
-Hybrid roles (e.g., "Backend + DB skills")
-
-One person owns critical scripts
-
-Scripts documented + pair-programmed
-
-Ad-hoc documentation
-
-Searchable runbooks + decision logs
-
-Manager approves all changes
-
-Pods autonomously merge via CI/CD checks
 
 * * *
 

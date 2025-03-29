@@ -98,3 +98,28 @@ _(Ideal for a mid-sized ML project, e.g., deploying a recommendation system, fra
 ✅ **Small, cross-functional teams** reduce single points of failure.  
 ✅ **RACI clarifies ownership** so attrition doesn’t create chaos.  
 ✅ **Documentation + rotation** ensures knowledge isn’t siloed.
+
+Team with Merged roles
+=======================
+
+### 
+
+With **merged AI/ML, Data Engineering, and Data Science roles** (a common trend in leaner teams or startups), you need a **generalist-friendly structure** that maintains resilience while streamlining collaboration. Below is an optimized team design:
+
+* * *
+
+### **1\. Unified Team Structure (12-15 People)**
+
+### 
+
+**Core Principle:** Each member handles **end-to-end ownership** (data → modeling → deployment) but with specialization biases.
+
+#### **Roles & Responsibilities**
+
+| Role             | Count | Key Skills                                  | Ownership Area                 |
+|------------------|-------|---------------------------------------------|--------------------------------|
+| AI Product Lead  | 1     | Project mgmt, stakeholder alignment         | Roadmap, prioritization        |
+| AI Tech Lead     | 1     | Architecture, cross-team review             | System design, code quality    |
+| AI Generalists   | 6-9   | Python, SQL, ML, pipelines, cloud           | Per workstream (e.g., NLP, CV) |
+| MLOps Engineer   | 1-2   | CI/CD, monitoring, infra-as-code            | Deployment, scalability        |
+| QA/Validation    | 1     | Testing, bias/drift detection               | Model performance audits       |

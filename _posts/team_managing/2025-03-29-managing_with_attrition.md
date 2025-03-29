@@ -1,4 +1,5 @@
-
+Managing with guaranteed attrition
+====================================
 
 To build a **resilient team and project structure** that can withstand attrition, you need to focus on **redundancy, flexibility, and decentralized ownership**. Below are key structural strategies to minimize disruption when team members leave:
 

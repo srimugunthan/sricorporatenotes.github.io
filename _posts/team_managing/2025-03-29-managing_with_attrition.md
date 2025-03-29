@@ -26,24 +26,10 @@ To build a **resilient team and project structure** that can withstand attrition
     
 *   **Example:**
     
-    Skill
-    
-    Primary Owner
-    
-    Secondary Owner
-    
-    API Gateway
-    
-    Alice
-    
-    Bob
-    
-    CI/CD Pipelines
-    
-    Carol
-    
-    Dave
-    
+ | Skill | Primary Owner | Secondary Owner |
+| --- | --- | --- |
+| API Gateway | Alice | Bob |
+| CI/CD Pipelines | Carol | Dave |   
 
 #### **C. Hybrid Specialist-Generalists**
 

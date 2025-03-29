@@ -60,6 +60,15 @@ Big teams are like soldiers—focused on their orders. Your small team can be th
     
 *   **Frame your work as "exploratory"** to avoid territorial fights. Example: _"We’re just running a quick experiment—no resources needed!"_ → Later, it becomes essential.
 
+### **The "No" Workaround**
+
+
+Big teams love saying no. So:
+
+*   **Ask for the minimum viable "yes."** Instead of "Can we do X?" ask "Can we try X for two weeks?"
+    
+*   **Use "pilot" or "beta" labels** – Temporary things become permanent if they work.
+
 ### **Reverse-Psychology Stakeholder Management**
 
 ### 

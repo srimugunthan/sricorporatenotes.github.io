@@ -31,3 +31,70 @@ _(Ideal for a mid-sized ML project, e.g., deploying a recommendation system, fra
     
 
 * * *
+| Task/Decision            | Project Lead | Workstream Lead | ML Engineers | Data Engineers | MLOps | Data Scientists | QA |
+|--------------------------|--------------|-----------------|--------------|----------------|-------|-----------------|----|
+| Model Architecture Design| C            | A               | R            | C              | C     | R               | I  |
+| Data Pipeline Development| I            | C               | C            | R              | A     | I               | I  |
+| Feature Engineering      | I            | A               | R            | R              | I     | R               | I  |
+| Model Training           | I            | A               | R            | I              | I     | R               | I  |
+| Model Deployment         | I            | C               | R            | I              | A     | C               | R  |
+| Performance Validation   | I            | C               | I            | I              | I     | C               | A  |
+| Stakeholder Updates      | A            | R               | I            | I              | I     | I               | I  |
+
+**Key**:
+
+*   **A (Accountable)**: Ultimate decision-maker (only 1 per task).
+    
+*   **R (Responsible)**: Does the work (can be multiple).
+    
+*   **C (Consulted)**: Provides input.
+    
+*   **I (Informed)**: Kept in the loop.
+    
+
+* * *
+
+### **Attrition Mitigation Tactics**
+
+1.  **For Workstream Leads**:
+    
+    *   Deputies (e.g., Senior ML Engineer) can step up.
+        
+    *   Quarterly "architecture review" with all leads to share knowledge.
+        
+2.  **For ML Engineers**:
+    
+    *   Pair programming on critical components (e.g., feature stores).
+        
+    *   Rotate engineers across workstreams every 6 months.
+        
+3.  **For MLOps**:
+    
+    *   Document infrastructure as code (Terraform, Kubernetes configs).
+        
+
+* * *
+
+### **Example Scenario**
+
+*   **If the NLP Workstream Lead leaves**:
+    
+    *   Deputy (Senior ML Engineer) takes over temporarily.
+        
+    *   Data Scientist from the team steps up on experimental design.
+        
+    *   Project Lead redistributes stakeholder communication.
+        
+
+* * *
+
+| Critical Skill           | Primary Owner   | Backup 1    | Backup 2  |
+|--------------------------|-----------------|-------------|-----------|
+| NLP Model Training       | Alice (NLP Lead)| Bob (ML Eng)| Carol (DS)|
+| Feature Store Management | Dave (Data Eng) | Eve (MLOps) | -         |
+
+### **Key Takeaways**
+
+✅ **Small, cross-functional teams** reduce single points of failure.  
+✅ **RACI clarifies ownership** so attrition doesn’t create chaos.  
+✅ **Documentation + rotation** ensures knowledge isn’t siloed.

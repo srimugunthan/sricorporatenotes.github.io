@@ -11,7 +11,8 @@ Volunteer your team to take on a small, seemingly less critical but potentially 
 
 
 ### **Leverage Influencers:**
-*   Identify decision-makers and informal leaders in larger teams and cultivate alliances with them.
+*   Identify decision-makers and informal leaders in larger teams and cultivate alliances with them.Proactively engage with members of the larger teams to build informal alliances. Offer insights or assistance that align with their goals, creating goodwill and positioning your team as collaborators rather than competitors
+*   **Secure Executive Sponsorship**: If possible, get a senior leader to endorse your team’s role in critical projects.
 
 *   **"Shadow Metrics" for Influence:** If the main project metrics don't fully capture the value your team is contributing, subtly track and present "shadow metrics" that highlight your impact in a different, but relevant, way.
 
@@ -25,4 +26,19 @@ Volunteer your team to take on a small, seemingly less critical but potentially 
 
 ### **Trade Favors:**
 Offer to help larger teams with their pain points in exchange for their support on your priorities.
+
+### **Stay Adaptable & Resilient**
+
+*   **Pick Your Battles:** Focus on high-impact areas where your influence matters most.
+    
+*   **Stay Positive & Professional:** Even if your team is smaller, maintaining a constructive attitude earns respect.
+    
+*   **Celebrate Joint Wins:** Recognize contributions from larger teams to foster goodwill.
+
+### **Important Caveats:**
+
+*   **Read the Room:** These unconventional tactics require careful observation and adaptation to the specific context and personalities involved. What works in one situation might backfire in another.
+*   **Build a Foundation First:** Don't jump straight to unconventional tactics without first establishing a base level of trust and credibility through reliable delivery and professional communication.
+*   **Authenticity Matters:** Don't try to be someone you're not. Adapt these ideas to your team's natural strengths and your own leadership style.
+*   **Potential for Misinterpretation:** Some of these tactics could be misinterpreted if not executed carefully. Be mindful of how your actions might be perceived.
 

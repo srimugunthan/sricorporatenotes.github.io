@@ -52,6 +52,14 @@ Schedule meetings at odd hours – If decision-makers are in different time zone
 ### **Trade Favors:**
 Offer to help larger teams with their pain points in exchange for their support on your priorities.
 
+###  **The "Scout vs. Soldier" Strategy**
+
+Big teams are like soldiers—focused on their orders. Your small team can be the **scout**:
+
+*   **Bring them intel they lack** (e.g., customer pain points, tech debt risks, or competitor moves).
+    
+*   **Frame your work as "exploratory"** to avoid territorial fights. Example: _"We’re just running a quick experiment—no resources needed!"_ → Later, it becomes essential.
+
 ### **Reverse-Psychology Stakeholder Management**
 
 ### 

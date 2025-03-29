@@ -43,6 +43,16 @@ Larger teams ignore small teams unless they _need_ something from them. So:
 *   **Own a critical piece of infrastructure, data, or approval** that bigger teams rely on. (Example: If you control the CI/CD pipeline, test environment, or customer feedback loop, they _have_ to engage.)
     
 *   **Become the bridge between two big teams** – If Team A and Team B don’t talk much, position yourself as the translator. They’ll default to you for coordination.
+  
+### **Create a "Micro-Monopoly"**
+
+*   **Own a niche tool or process** larger teams are too slow to replicate. Examples:
+    
+    *   Build a lightweight analytics dashboard they rely on for daily metrics.
+        
+    *   Become the sole owner of a critical API integration or customer feedback loop.
+        
+    *   **Killer move**: Let them depend on it, then negotiate influence.
 
 ### ** Use "Controlled Chaos" to Your Advantage
 Let big teams hit snags (sometimes). If they ignore your warnings, let a small failure happen—then swoop in with a fix. They’ll listen next time.

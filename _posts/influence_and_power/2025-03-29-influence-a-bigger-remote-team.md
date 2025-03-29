@@ -188,7 +188,7 @@ While traditional "credit laundering" focuses on cleaning illicit _funds_, the u
  
   * * *
   
-    ### **Bait the "Status Hook"**
+ ### **Bait the "Status Hook"**
 
 ### 
 

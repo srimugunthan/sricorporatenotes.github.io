@@ -5,7 +5,7 @@ Instead of trying to match the resources of the larger teams, subtly position yo
 Instead of competing directly with larger teams, focus on becoming the "go-to" experts in a niche area of the project. This specialization builds credibility and influence, as larger teams may rely on your expertise for critical decisions
 
 *   **Become the Go-To Expert:** Deepen your knowledge in a niche area (e.g., a specific technology, process, or customer insight) so larger teams rely on your input.
-*   
+*   **Be the "First to Document:** – If you define processes, frameworks, or terminology first, larger teams will often default to adopting them rather than reinventing the wheel.
 ### **"Pilot Project" Leverage:** 
 Volunteer your team to take on a small, seemingly less critical but potentially impactful "pilot project" or a challenging edge case that the larger teams might overlook or deem too risky. If you deliver exceptional results, you gain disproportionate credibility and leverage for future, larger initiatives.
 

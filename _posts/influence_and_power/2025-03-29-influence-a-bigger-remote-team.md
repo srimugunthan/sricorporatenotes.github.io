@@ -36,6 +36,13 @@ Volunteer your team to take on a small, seemingly less critical but potentially 
         
     *   **Bury controversial asks in boring docs** – Need approval? Embed it in a routine update where it’s harder to nitpick.
 
+### **Create "Forced Dependencies"**
+
+Larger teams ignore small teams unless they _need_ something from them. So:
+
+*   **Own a critical piece of infrastructure, data, or approval** that bigger teams rely on. (Example: If you control the CI/CD pipeline, test environment, or customer feedback loop, they _have_ to engage.)
+    
+*   **Become the bridge between two big teams** – If Team A and Team B don’t talk much, position yourself as the translator. They’ll default to you for coordination.
 
 ### **Trade Favors:**
 Offer to help larger teams with their pain points in exchange for their support on your priorities.

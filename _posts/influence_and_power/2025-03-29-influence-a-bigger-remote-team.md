@@ -6,6 +6,7 @@ Instead of competing directly with larger teams, focus on becoming the "go-to" e
 
 *   **Become the Go-To Expert:** Deepen your knowledge in a niche area (e.g., a specific technology, process, or customer insight) so larger teams rely on your input.
 *   **Be the "First to Document:** – If you define processes, frameworks, or terminology first, larger teams will often default to adopting them rather than reinventing the wheel.
+*   
 ### **"Pilot Project" Leverage:** 
 Volunteer your team to take on a small, seemingly less critical but potentially impactful "pilot project" or a challenging edge case that the larger teams might overlook or deem too risky. If you deliver exceptional results, you gain disproportionate credibility and leverage for future, larger initiatives.
 
@@ -14,7 +15,7 @@ Volunteer your team to take on a small, seemingly less critical but potentially 
 *   Identify decision-makers and informal leaders in larger teams and cultivate alliances with them.Proactively engage with members of the larger teams to build informal alliances. Offer insights or assistance that align with their goals, creating goodwill and positioning your team as collaborators rather than competitors
 *   **Secure Executive Sponsorship**: If possible, get a senior leader to endorse your team’s role in critical projects.
 
-*   **"Shadow Metrics" for Influence:** If the main project metrics don't fully capture the value your team is contributing, subtly track and present "shadow metrics" that highlight your impact in a different, but relevant, way.
+  
 
 
 
@@ -104,6 +105,16 @@ While traditional "credit laundering" focuses on cleaning illicit _funds_, the u
     
 *   **Celebrate Joint Wins:** Recognize contributions from larger teams to foster goodwill.
 
+### **Deploy "Guerrilla Metrics"**
+
+### 
+
+*   **Invent a KPI only your team can track**, tied to leadership’s current obsession (e.g., "customer friction score" or "decision latency").
+    
+    *   Example: "We’ve reduced deployment blockers by 40%—here’s how it impacts _your_ team’s velocity."
+        
+    *   Forces larger teams to engage on your terms.
+    *    **"Shadow Metrics" for Influence:** If the main project metrics don't fully capture the value your team is contributing, subtly track and present "shadow metrics" that highlight your impact in a different, but relevant, way.
 
 ### **Important Caveats:**
 

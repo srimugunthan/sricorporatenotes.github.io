@@ -16,6 +16,8 @@ Volunteer your team to take on a small, seemingly less critical but potentially 
 
 *   **"Shadow Metrics" for Influence:** If the main project metrics don't fully capture the value your team is contributing, subtly track and present "shadow metrics" that highlight your impact in a different, but relevant, way.
 
+
+
 ### **Leverage Asynchronous Influence**
 
 *   **Document Everything:** Use shared wikis (Notion, Confluence) or project trackers (Jira, Trello) to ensure your team’s work is visible.
@@ -23,6 +25,17 @@ Volunteer your team to take on a small, seemingly less critical but potentially 
 *   **Write Persuasive Updates:** Summarize progress, blockers, and next steps in a structured format (e.g., bullet points, dashboards) to keep stakeholders aligned.
     
 *   **Pre-Meeting Alignment:** Share key messages or proposals with decision-makers before meetings to secure buy-in early.
+*   *Weaponize Asynchronous Communication*
+
+
+*   **Stop waiting for meetings.** Instead:
+    
+    *   **Drop preemptive written briefs** (Slack/email) before discussions, framing the issue _your way_. People often default to the first coherent narrative they see.
+        
+    *   **Use "silent agendas"** – Before a big meeting, privately lobby 1-2 key players so they show up already aligned with you.
+        
+    *   **Bury controversial asks in boring docs** – Need approval? Embed it in a routine update where it’s harder to nitpick.
+
 
 ### **Trade Favors:**
 Offer to help larger teams with their pain points in exchange for their support on your priorities.
@@ -35,16 +48,6 @@ Offer to help larger teams with their pain points in exchange for their support 
     
 *   **Celebrate Joint Wins:** Recognize contributions from larger teams to foster goodwill.
 
-  ### **Weaponize Asynchronous Communication**
-
-
-*   **Stop waiting for meetings.** Instead:
-    
-    *   **Drop preemptive written briefs** (Slack/email) before discussions, framing the issue _your way_. People often default to the first coherent narrative they see.
-        
-    *   **Use "silent agendas"** – Before a big meeting, privately lobby 1-2 key players so they show up already aligned with you.
-        
-    *   **Bury controversial asks in boring docs** – Need approval? Embed it in a routine update where it’s harder to nitpick.
 
 ### **Important Caveats:**
 

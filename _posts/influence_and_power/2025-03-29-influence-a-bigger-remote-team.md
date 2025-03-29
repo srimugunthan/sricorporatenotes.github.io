@@ -35,6 +35,17 @@ Offer to help larger teams with their pain points in exchange for their support 
     
 *   **Celebrate Joint Wins:** Recognize contributions from larger teams to foster goodwill.
 
+  ### **Weaponize Asynchronous Communication**
+
+
+*   **Stop waiting for meetings.** Instead:
+    
+    *   **Drop preemptive written briefs** (Slack/email) before discussions, framing the issue _your way_. People often default to the first coherent narrative they see.
+        
+    *   **Use "silent agendas"** – Before a big meeting, privately lobby 1-2 key players so they show up already aligned with you.
+        
+    *   **Bury controversial asks in boring docs** – Need approval? Embed it in a routine update where it’s harder to nitpick.
+
 ### **Important Caveats:**
 
 *   **Read the Room:** These unconventional tactics require careful observation and adaptation to the specific context and personalities involved. What works in one situation might backfire in another.

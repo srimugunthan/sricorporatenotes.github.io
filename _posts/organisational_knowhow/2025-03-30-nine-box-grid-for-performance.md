@@ -1,3 +1,6 @@
+Nine box grid for performance
+==============================
+
 The **9-Box Grid** is a popular talent management tool used by organizations to assess employees based on two key dimensions:
 
 1.  **Performance** – How well an employee delivers results in their current role.

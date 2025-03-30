@@ -11,7 +11,7 @@ People miss you.. that is the key characteristic of being indispensable.
 5.  Be a Problem Solver :- Fast debugging of issues. - Slow designing. Take time to simplify design. Fast implementation.
 6.  Have cross functional awareness
 7.  Communicate effectively
-8.  Lot of tribal knowledge. (Why decisions were made? Institutional memory, tricks of the trade, hacks, undocumented knowledge, institutional memory)
+8.  Lot of tribal knowledge. (Why decisions were made? Institutional memory, tricks of the trade, hacks, undocumented knowledge)
 
   
 

@@ -1,5 +1,5 @@
-Building influence
-===================
+Building influence one interaction at a time
+===============================================
 
 *   **Leadership and Influence:**
     

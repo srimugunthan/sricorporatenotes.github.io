@@ -67,3 +67,5 @@ creating better hooks:
     *   Shorter sentences force maximum clarity and increase the density of value per word at the beginning when time is critical.
     *   Start with shorter sentences in the hook and then transition to medium and longer sentences as the video progresses.
 *   **Conclusion:** Mastering hooks requires practice, iteration, and learning to make these techniques subconscious. There are many other tips not covered in the video. The speaker offers help through their "Short Form Academy" (currently closed, with a waitlist) and encourages viewers to check out the free resources in the description. They also mention their upcoming software, "Sand Castles," which aims to automate script and hook writing using the discussed psychological principles.
+
+Reference: https://www.youtube.com/watch?v=LmXpbP7dD48

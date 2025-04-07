@@ -37,6 +37,8 @@ Polical capital and social capital
 *   **Trust & Reciprocity:** People are more likely to collaborate if they trust each other.
     
 *   **Collective Benefit:** Improves economic efficiency, democracy, and community resilience.
+
+  
 | Aspect        | Political Capital                  | Social Capital                   |
 |---------------|------------------------------------|----------------------------------|
 | Focus         | Power & influence in politics      | Relationships & trust in society |
